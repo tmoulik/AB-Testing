@@ -1,9 +1,7 @@
 # AB-Testing
 
 ## Introduction
-A/B tests are very commonly performed by data analysts and data scientists. It is important that you get some practice working with the difficulties of these
-
-This project contains code which is used to understand the results of an A/B test run by an e-commerce website. The goal is to decide if the company should implement the new page, keep the old page, or perhaps run the experiment longer to make their decision.
+A/B tests are very commonly performed by data analysts and data scientists.This project was done as part of the Udacity data analyst course. This project contains code which is used to understand the results of an A/B test run by an e-commerce website. The goal is to decide if the company should implement the new page, keep the old page, or perhaps run the experiment longer to make their decision.
 
 ## Contact:
 tania.moulik@gmail.com
