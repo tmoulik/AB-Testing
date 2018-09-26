@@ -13,6 +13,6 @@ You need to install Jupyter to run this code. You can install Anaconda which con
 AB Testing is a kind of hypothesis test. Here we use do a hypothesis test using two methods: bootstrapping the sample and calculating probabilities and through using the python library statsmodel and its z-score and p-value functions and compare the results of the two. Both methods give compatible results.
 
 ## Code
-To access the code just click on the Jupyter Notebook:
+To access the code just click on the Jupyter Notebook above:
 
-Analyze_ab_test_results_notebook
+Analyze_ab_test_results_notebook.ipynb 
